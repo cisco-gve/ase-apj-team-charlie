@@ -26,7 +26,7 @@ You will find the corresponding folders for each step.
 
 
 ##Products in this project
-* [Cisco Sparl](https://www.ciscospark.com/)
+* [Cisco Spark](https://www.ciscospark.com/)
 * [Cisco Tropo](https://www.tropo.com/)
 
 
