@@ -1,4 +1,4 @@
-##ASE APJ Team Charlie - Software Project Q3FY17
+## ASE APJ Team Charlie - Software Project Q3FY17
 This repository contains code for the software project of ASE APJ Team Charlie.
 
 The project is organized in a 3 step process, notably:
@@ -10,14 +10,14 @@ You will find the corresponding folders for each step.
 
 
 
-###Team Members
+### Team Members
 * Zhenyu Li
 * Lixia li
 * Chanca Wang
 
 
 
-###Coaches/Sponsors
+### Coaches/Sponsors
 * Aleksey Orlov
 * Clemens Geyer
 * Gerardo Chaves
@@ -25,18 +25,18 @@ You will find the corresponding folders for each step.
 
 
 
-##Products in this project
+### Products in this project
 * [Cisco Spark](https://www.ciscospark.com/)
 * [Cisco Tropo](https://www.tropo.com/)
 
 
 
-###API Documentation
+### API Documentation
 * [Spark for Developers](https://developer.ciscospark.com/getting-started.html)
 * [Cloud Collaboration Learning Labs](https://learninglabs.cisco.com/tracks/collab-cloud)
 * [Tropo Use Cases & API Documentation](https://usecases.tropo.com/)
 
 
 
-###Sample Application - coming soon
+### Sample Application - coming soon
 Coming soon
