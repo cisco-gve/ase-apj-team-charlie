@@ -1,5 +1,0 @@
-ACCESS_TOKEN = "OTU1MzA5OTktNGFjNC00YjI5LWJhNWItNGM2MTExYWViYzQ1NWI2YzIwZGItOWM4"
-
-BOT_ACCESS_TOKEN = "MzM2MDhjNGYtMWFkNi00MjAxLWJkM2ItOGVkM2RmYzY4ODlmNjg3ZTNkMGYtYWM0"
-
-Tangnos is not accessible: https://Tagnos.mysite.com, need to switch to other apps integration
