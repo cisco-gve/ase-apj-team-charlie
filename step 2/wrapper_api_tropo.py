@@ -1,11 +1,9 @@
-
-
 from tropo import Tropo, Result, Session
 from http.server import BaseHTTPRequestHandler, HTTPServer
 
-#Tropo Say()
-#customize Answering incoming calls
 
+#Tropo Say()
+#Answering incoming calls
 class HTTPRequestHandler(BaseHTTPRequestHandler):
 
     def do_POST(self):
@@ -34,8 +32,7 @@ class HTTPRequestHandler(BaseHTTPRequestHandler):
 #Following example is asking for digit and figure out the digit you chose and transfer the call
 
 class testHTTPServer_RequestHandler(BaseHTTPRequestHandler):
-
-
+    
     def do_POST(self):
         if "/continue" in self.path:
             content_len = int(self.headers['content-length'])
@@ -71,13 +68,12 @@ class testHTTPServer_RequestHandler(BaseHTTPRequestHandler):
             self.wfile.write(bytes(message, "utf8"))
             return
 
-
+        
+#Create Python Web Server to interact with Tropo WebAPI request      
 def run():
     print('starting server...')
     server_address = ('127.0.0.1', 8080)
     httpd = HTTPServer(server_address, testHTTPServer_RequestHandler)
     print('running server...')
     httpd.serve_forever()
-
-
 
