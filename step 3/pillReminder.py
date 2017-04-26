@@ -36,7 +36,7 @@ def pillReminder(timeInterval, mediType, roomID):
         print ("Invalid RoomID")
         return
     for i in range(5):
-        time.sleep(timeInterval*2)
+        time.sleep(timeInterval*3600)
         postMessage("Hi patient, time to take %s" % mediType, roomDict[roomID])
         postPicture(picurl, roomDict[roomID])
 
