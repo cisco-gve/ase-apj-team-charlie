@@ -1,0 +1,5 @@
+In order to process human language for interaction purpose, I relied on a Natural Language Processing platform, API.ai to 
+integrate with Cisco Spark. It can be "trained" to understand human language and give responses accordingly. 
+
+For more features, this platform opens APIs for more web services you want to intergrate with, and it has machine learning 
+capbilities to be more intelligently with sufficient training.
